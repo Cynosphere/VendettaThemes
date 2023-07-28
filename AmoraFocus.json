@@ -1,4 +1,5 @@
 {
+  "spec": 2,
   "name": "Amora Focus",
   "description": "Dark theme with purple accents and pastel colors. Original theme by owozsh.",
   "authors": [
@@ -7,7 +8,258 @@
       "id": "150745989836308480"
     }
   ],
-  "semanticColors": {},
+  "semanticColors": {
+    "TEXT_BRAND": ["#634e75", "#634e75", "#634e75", "#634e75"],
+    "CONTROL_BRAND_FOREGROUND": ["#634e75", "#634e75", "#634e75", "#634e75"],
+    "CONTROL_BRAND_FOREGROUND_NEW": [
+      "#634e75",
+      "#634e75",
+      "#634e75",
+      "#634e75"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#634e7520",
+      "#634e7520",
+      "#634e7520",
+      "#634e7520"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#634e7520",
+      "#634e7520",
+      "#634e7520",
+      "#634e7520"
+    ],
+
+    "TEXT_DANGER": ["#e83f80", "#e83f80", "#e83f80", "#e83f80"],
+    "STATUS_DANGER": ["#e83f80", "#e83f80", "#e83f80", "#e83f80"],
+    "STATUS_DANGER_BACKGROUND": ["#e83f80", "#e83f80", "#e83f80", "#e83f80"],
+    "STATUS_DANGER_TEXT": ["#1a1a1a", "#1a1a1a", "#1a1a1a", "#1a1a1a"],
+    "BUTTON_DANGER_BACKGROUND": ["#e83f80", "#e83f80", "#e83f80", "#e83f80"],
+    "BUTTON_DANGER_BACKGROUND_ACTIVE": [
+      "#f55d8f",
+      "#f55d8f",
+      "#f55d8f",
+      "#f55d8f"
+    ],
+    "BUTTON_DANGER_BACKGROUND_HOVER": [
+      "#f55d8f",
+      "#f55d8f",
+      "#f55d8f",
+      "#f55d8f"
+    ],
+    "BUTTON_DANGER_BACKGROUND_DISABLED": [
+      "#9e2b57",
+      "#9e2b57",
+      "#9e2b57",
+      "#9e2b57"
+    ],
+    "BUTTON_OUTLINE_DANGER_BACKGROUND_HOVER": [
+      "#f55d8f",
+      "#f55d8f",
+      "#f55d8f",
+      "#f55d8f"
+    ],
+    "BUTTON_OUTLINE_DANGER_BORDER": [
+      "#e83f80",
+      "#e83f80",
+      "#e83f80",
+      "#e83f80"
+    ],
+    "BUTTON_OUTLINE_DANGER_BORDER_ACTIVE": [
+      "#f55d8f",
+      "#f55d8f",
+      "#f55d8f",
+      "#f55d8f"
+    ],
+    "BUTTON_OUTLINE_DANGER_BORDER_HOVER": [
+      "#f55d8f",
+      "#f55d8f",
+      "#f55d8f",
+      "#f55d8f"
+    ],
+    "BUTTON_OUTLINE_DANGER_TEXT_ACTIVE": [
+      "#1a1a1a",
+      "#1a1a1a",
+      "#1a1a1a",
+      "#1a1a1a"
+    ],
+    "BUTTON_OUTLINE_DANGER_TEXT_HOVER": [
+      "#1a1a1a",
+      "#1a1a1a",
+      "#1a1a1a",
+      "#1a1a1a"
+    ],
+    "INFO_DANGER_BACKGROUND": ["#e83f80", "#e83f80", "#e83f80", "#e83f80"],
+    "INFO_DANGER_FOREGROUND": ["#e83f80", "#e83f80", "#e83f80", "#e83f80"],
+    "REDESIGN_BUTTON_DANGER_BACKGROUND": [
+      "#e83f80",
+      "#e83f80",
+      "#e83f80",
+      "#e83f80"
+    ],
+    "REDESIGN_BUTTON_DANGER_PRESSED_BACKGROUND": [
+      "#f55d8f",
+      "#f55d8f",
+      "#f55d8f",
+      "#f55d8f"
+    ],
+    "REDESIGN_BUTTON_DANGER_TEXT": ["#1a1a1a", "#1a1a1a", "#1a1a1a", "#1a1a1a"],
+
+    "TEXT_POSITIVE": ["#a2baa8", "#a2baa8", "#a2baa8", "#a2baa8"],
+    "STATUS_POSITIVE": ["#a2baa8", "#a2baa8", "#a2baa8", "#a2baa8"],
+    "STATUS_POSITIVE_BACKGROUND": ["#a2baa8", "#a2baa8", "#a2baa8", "#a2baa8"],
+    "STATUS_POSITIVE_TEXT": ["#1a1a1a", "#1a1a1a", "#1a1a1a", "#1a1a1a"],
+    "BUTTON_POSITIVE_BACKGROUND": ["#a2baa8", "#a2baa8", "#a2baa8", "#a2baa8"],
+    "BUTTON_POSITIVE_BACKGROUND_ACTIVE": [
+      "#bfd1c3",
+      "#bfd1c3",
+      "#bfd1c3",
+      "#bfd1c3"
+    ],
+    "BUTTON_POSITIVE_BACKGROUND_HOVER": [
+      "#bfd1c3",
+      "#bfd1c3",
+      "#bfd1c3",
+      "#bfd1c3"
+    ],
+    "BUTTON_POSITIVE_BACKGROUND_DISABLED": [
+      "#4a6451",
+      "#4a6451",
+      "#4a6451",
+      "#4a6451"
+    ],
+    "BUTTON_OUTLINE_POSITIVE_BACKGROUND_HOVER": [
+      "#bfd1c3",
+      "#bfd1c3",
+      "#bfd1c3",
+      "#bfd1c3"
+    ],
+    "BUTTON_OUTLINE_POSITIVE_BORDER": [
+      "#a2baa8",
+      "#a2baa8",
+      "#a2baa8",
+      "#a2baa8"
+    ],
+    "BUTTON_OUTLINE_POSITIVE_BORDER_ACTIVE": [
+      "#bfd1c3",
+      "#bfd1c3",
+      "#bfd1c3",
+      "#bfd1c3"
+    ],
+    "BUTTON_OUTLINE_POSITIVE_BORDER_HOVER": [
+      "#bfd1c3",
+      "#bfd1c3",
+      "#bfd1c3",
+      "#bfd1c3"
+    ],
+    "BUTTON_OUTLINE_POSITIVE_TEXT_ACTIVE": [
+      "#1a1a1a",
+      "#1a1a1a",
+      "#1a1a1a",
+      "#1a1a1a"
+    ],
+    "BUTTON_OUTLINE_POSITIVE_TEXT_HOVER": [
+      "#1a1a1a",
+      "#1a1a1a",
+      "#1a1a1a",
+      "#1a1a1a"
+    ],
+    "INFO_POSITIVE_BACKGROUND": ["#a2baa8", "#a2baa8", "#a2baa8", "#a2baa8"],
+    "INFO_POSITIVE_FOREGROUND": ["#a2baa8", "#a2baa8", "#a2baa8", "#a2baa8"],
+    "REDESIGN_BUTTON_POSITIVE_BACKGROUND": [
+      "#a2baa8",
+      "#a2baa8",
+      "#a2baa8",
+      "#a2baa8"
+    ],
+    "REDESIGN_BUTTON_POSITIVE_PRESSED_BACKGROUND": [
+      "#bfd1c3",
+      "#bfd1c3",
+      "#bfd1c3",
+      "#bfd1c3"
+    ],
+    "REDESIGN_BUTTON_POSITIVE_TEXT": [
+      "#1a1a1a",
+      "#1a1a1a",
+      "#1a1a1a",
+      "#1a1a1a"
+    ],
+
+    "TEXT_WARNING": ["#eacac0", "#eacac0", "#eacac0", "#eacac0"],
+    "STATUS_WARNING": ["#eacac0", "#eacac0", "#eacac0", "#eacac0"],
+    "STATUS_WARNING_BACKGROUND": ["#eacac0", "#eacac0", "#eacac0", "#eacac0"],
+    "STATUS_WARNING_TEXT": ["#1a1a1a", "#1a1a1a", "#1a1a1a", "#1a1a1a"],
+    "BUTTON_WARNING_BACKGROUND": ["#eacac0", "#eacac0", "#eacac0", "#eacac0"],
+    "BUTTON_WARNING_BACKGROUND_ACTIVE": [
+      "#f0ddd8",
+      "#f0ddd8",
+      "#f0ddd8",
+      "#f0ddd8"
+    ],
+    "BUTTON_WARNING_BACKGROUND_HOVER": [
+      "#f0ddd8",
+      "#f0ddd8",
+      "#f0ddd8",
+      "#f0ddd8"
+    ],
+    "BUTTON_WARNING_BACKGROUND_DISABLED": [
+      "#895342",
+      "#895342",
+      "#895342",
+      "#895342"
+    ],
+    "BUTTON_OUTLINE_WARNING_BACKGROUND_HOVER": [
+      "#f0ddd8",
+      "#f0ddd8",
+      "#f0ddd8",
+      "#f0ddd8"
+    ],
+    "BUTTON_OUTLINE_WARNING_BORDER": [
+      "#eacac0",
+      "#eacac0",
+      "#eacac0",
+      "#eacac0"
+    ],
+    "BUTTON_OUTLINE_WARNING_BORDER_ACTIVE": [
+      "#f0ddd8",
+      "#f0ddd8",
+      "#f0ddd8",
+      "#f0ddd8"
+    ],
+    "BUTTON_OUTLINE_WARNING_BORDER_HOVER": [
+      "#f0ddd8",
+      "#f0ddd8",
+      "#f0ddd8",
+      "#f0ddd8"
+    ],
+    "BUTTON_OUTLINE_WARNING_TEXT_ACTIVE": [
+      "#1a1a1a",
+      "#1a1a1a",
+      "#1a1a1a",
+      "#1a1a1a"
+    ],
+    "BUTTON_OUTLINE_WARNING_TEXT_HOVER": [
+      "#1a1a1a",
+      "#1a1a1a",
+      "#1a1a1a",
+      "#1a1a1a"
+    ],
+    "INFO_WARNING_BACKGROUND": ["#eacac0", "#eacac0", "#eacac0", "#eacac0"],
+    "INFO_WARNING_FOREGROUND": ["#eacac0", "#eacac0", "#eacac0", "#eacac0"],
+    "REDESIGN_BUTTON_WARNING_BACKGROUND": [
+      "#eacac0",
+      "#eacac0",
+      "#eacac0",
+      "#eacac0"
+    ],
+    "REDESIGN_BUTTON_WARNING_PRESSED_BACKGROUND": [
+      "#f0ddd8",
+      "#f0ddd8",
+      "#f0ddd8",
+      "#f0ddd8"
+    ],
+    "REDESIGN_BUTTON_WARNING_TEXT": ["#1a1a1a", "#1a1a1a", "#1a1a1a", "#1a1a1a"]
+  },
   "rawColors": {
     "RED_100": "#fefafc",
     "RED_130": "#fdf6fa",
@@ -269,7 +521,59 @@
     "PRIMARY_800": "#0b0b0b",
     "PRIMARY_830": "#090909",
     "PRIMARY_860": "#060606",
-    "PRIMARY_900": "#020202"
+    "PRIMARY_900": "#020202",
+    "DONTUSE_0": "#f4f4f4",
+    "DONTUSE_1": "#ececec",
+    "DONTUSE_2": "#e0e0e0",
+    "DONTUSE_3": "#d4d4d4",
+    "DONTUSE_4": "#c7c7c7",
+    "DONTUSE_5": "#b9b9b9",
+    "DONTUSE_6": "#a8a8a8",
+    "DONTUSE_7": "#8f8f8f",
+    "DONTUSE_8": "#7e7e7e",
+    "DONTUSE_9": "#747474",
+    "DONTUSE_10": "#515151",
+    "DONTUSE_11": "#464646",
+    "DONTUSE_12": "#373737",
+    "DONTUSE_13": "#262626",
+    "DONTUSE_14": "#232323",
+    "DONTUSE_15": "#1f1f1f",
+    "DONTUSE_16": "#1a1a1a",
+    "DONTUSE_17": "#161616",
+    "DONTUSE_18": "#151515",
+    "DONTUSE_19": "#141414",
+    "DONTUSE_20": "#0f0f0f",
+    "DONTUSE_21": "#0e0e0e",
+    "DONTUSE_22": "#0d0d0d",
+    "DONTUSE_23": "#0b0b0b",
+    "DONTUSE_24": "#090909",
+    "DONTUSE_25": "#060606",
+    "DONTUSE_26": "#020202"
   },
-  "spec": 2
+  "plus": {
+    "version": 0,
+    "unreadBadgeColor": "#8ea1d9",
+    "mentionLineColor": "RC_BRAND_500",
+    "icons": {
+      "ic_radio_square_checked_24px": "RC_BRAND_500",
+      "ic_radio_square_checked_24px__overlay": "RC_WHITE_500",
+      "ic_selection_checked_24px": "RC_BRAND_500",
+      "ic_selection_checked_24px__overlay": "RC_WHITE_500",
+      "ic_check": "RC_BRAND_500",
+      "ic_check__overlay": "RC_WHITE_500",
+      "ic_radio_circle_checked": "RC_BRAND_500",
+      "ic_radio_circle_checked__overlay": "RC_WHITE_500",
+      "app_installed_check": "RC_GREEN_360",
+      "app_installed_check__overlay": "RC_PRIMARY_600",
+      "ic_radio_circle_checked_green": "RC_GREEN_360",
+      "ic_radio_circle_checked_green__overlay": "RC_PRIMARY_600",
+      "StatusStreaming": "RC_TEAL_345",
+      "StatusMobileOnline": "RC_GREEN_360",
+      "StatusIdle": "RC_YELLOW_300",
+      "StatusDND": "#e68ac1",
+      "StatusOffline": "#5c5c5c",
+      "StatusOnline": "RC_GREEN_360"
+    },
+    "customOverlays": true
+  }
 }
